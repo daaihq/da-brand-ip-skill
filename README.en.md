@@ -88,4 +88,4 @@ User photos, brand files, articles, and generated assets belong in a separate ru
 
 ## License and feedback
 
-[MIT License](LICENSE) · Copyright © DAAI. For feedback, [open an issue](https://github.com/daaihq/da-brand-ip/issues).
+[MIT License](LICENSE) · Copyright © DAAI. For feedback, [open an issue](https://github.com/daaihq/da-brand-ip-skill/issues).

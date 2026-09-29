@@ -88,4 +88,4 @@ python3 scripts/compose_board.py --help
 
 ## ライセンスとお問い合わせ
 
-[MIT License](LICENSE) · Copyright © DAAI。ご意見は [Issues](https://github.com/daaihq/da-brand-ip/issues) にお寄せください。
+[MIT License](LICENSE) · Copyright © DAAI。ご意見は [Issues](https://github.com/daaihq/da-brand-ip-skill/issues) にお寄せください。
