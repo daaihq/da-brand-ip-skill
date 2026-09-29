@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1200" viewBox="0 0 1600 1200">
+<rect width="100%" height="100%" fill="white"/>
+<text x="800" y="115" text-anchor="middle" font-family="sans-serif" font-size="106" fill="#555">BRAND</text>
+<text x="800" y="166" text-anchor="middle" font-family="sans-serif" font-size="28" fill="#555">IP MASTER v2</text>
+<text x="800" y="195" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#555">POSITIONING</text>
+<text x="130" y="60" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#555">REFERENCE</text>
+<text x="1460" y="60" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#555">KEYWORDS</text>
+<rect x="40" y="208" width="236" height="36" rx="18" fill="#ddd"/>
+<text x="158.0" y="233" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#555">ACTIONS</text>
+<rect x="40" y="764" width="236" height="36" rx="18" fill="#ddd"/>
+<text x="158.0" y="789" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#555">EXPRESSIONS</text>
+<rect x="40" y="260" width="288" height="430" fill="#f8f8f8" stroke="#ccc" stroke-dasharray="6 6"/>
+<text x="184.0" y="475.0" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#555">STANDARD</text>
+<text x="184.0" y="724" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#555">LABEL</text>
+<rect x="348" y="260" width="288" height="430" fill="#f8f8f8" stroke="#ccc" stroke-dasharray="6 6"/>
+<text x="492.0" y="475.0" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#555">ACTION 1</text>
+<text x="492.0" y="724" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#555">LABEL</text>
+<rect x="656" y="260" width="288" height="430" fill="#f8f8f8" stroke="#ccc" stroke-dasharray="6 6"/>
+<text x="800.0" y="475.0" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#555">ACTION 2</text>
+<text x="800.0" y="724" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#555">LABEL</text>
+<rect x="964" y="260" width="288" height="430" fill="#f8f8f8" stroke="#ccc" stroke-dasharray="6 6"/>
+<text x="1108.0" y="475.0" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#555">ACTION 3</text>
+<text x="1108.0" y="724" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#555">LABEL</text>
+<rect x="1272" y="260" width="288" height="430" fill="#f8f8f8" stroke="#ccc" stroke-dasharray="6 6"/>
+<text x="1416.0" y="475.0" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#555">ACTION 4</text>
+<text x="1416.0" y="724" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#555">LABEL</text>
+<rect x="40" y="824" width="240" height="256" fill="#f8f8f8" stroke="#ccc" stroke-dasharray="6 6"/>
+<text x="160.0" y="952.0" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#555">EXPRESSION 1</text>
+<text x="160.0" y="1120" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#555">LABEL</text>
+<rect x="296" y="824" width="240" height="256" fill="#f8f8f8" stroke="#ccc" stroke-dasharray="6 6"/>
+<text x="416.0" y="952.0" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#555">EXPRESSION 2</text>
+<text x="416.0" y="1120" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#555">LABEL</text>
+<rect x="552" y="824" width="240" height="256" fill="#f8f8f8" stroke="#ccc" stroke-dasharray="6 6"/>
+<text x="672.0" y="952.0" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#555">EXPRESSION 3</text>
+<text x="672.0" y="1120" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#555">LABEL</text>
+<rect x="808" y="824" width="240" height="256" fill="#f8f8f8" stroke="#ccc" stroke-dasharray="6 6"/>
+<text x="928.0" y="952.0" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#555">EXPRESSION 4</text>
+<text x="928.0" y="1120" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#555">LABEL</text>
+<rect x="1064" y="824" width="240" height="256" fill="#f8f8f8" stroke="#ccc" stroke-dasharray="6 6"/>
+<text x="1184.0" y="952.0" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#555">EXPRESSION 5</text>
+<text x="1184.0" y="1120" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#555">LABEL</text>
+<rect x="1320" y="824" width="240" height="256" fill="#f8f8f8" stroke="#ccc" stroke-dasharray="6 6"/>
+<text x="1440.0" y="952.0" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#555">EXPRESSION 6</text>
+<text x="1440.0" y="1120" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#555">LABEL</text>
+<text x="200" y="1170" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#555">BRAND / VERSION</text>
+<text x="1370" y="1170" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#555">APPROVED SHORT LINE</text>
+</svg>

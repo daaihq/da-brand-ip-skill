@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+<rect width="1024" height="1024" fill="white"/>
+<text x="512" y="78" text-anchor="middle" font-family="sans-serif" font-size="54" fill="#444">CHARACTER NAME</text>
+<text x="512" y="114" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#444">CHARACTER DESIGN / v2</text>
+<text x="312" y="160" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#444">MAIN CHARACTER</text>
+<text x="790" y="160" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#444">SIGNATURE DETAILS</text>
+<rect x="48" y="184" width="528" height="602" fill="#fafafa" stroke="#ccc" stroke-dasharray="5 5"/>
+<text x="312.0" y="485.0" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#444">FULL BODY</text>
+<rect x="608" y="188" width="172" height="152" fill="#fafafa" stroke="#ccc" stroke-dasharray="5 5"/>
+<text x="694.0" y="264.0" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#444">DETAIL 1</text>
+<text x="694.0" y="366" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#444">LABEL</text>
+<rect x="800" y="188" width="172" height="152" fill="#fafafa" stroke="#ccc" stroke-dasharray="5 5"/>
+<text x="886.0" y="264.0" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#444">DETAIL 2</text>
+<text x="886.0" y="366" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#444">LABEL</text>
+<rect x="608" y="386" width="172" height="152" fill="#fafafa" stroke="#ccc" stroke-dasharray="5 5"/>
+<text x="694.0" y="462.0" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#444">DETAIL 3</text>
+<text x="694.0" y="564" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#444">LABEL</text>
+<rect x="800" y="386" width="172" height="152" fill="#fafafa" stroke="#ccc" stroke-dasharray="5 5"/>
+<text x="886.0" y="462.0" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#444">DETAIL 4</text>
+<text x="886.0" y="564" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#444">LABEL</text>
+<rect x="608" y="584" width="172" height="152" fill="#fafafa" stroke="#ccc" stroke-dasharray="5 5"/>
+<text x="694.0" y="660.0" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#444">DETAIL 5</text>
+<text x="694.0" y="762" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#444">LABEL</text>
+<rect x="800" y="584" width="172" height="152" fill="#fafafa" stroke="#ccc" stroke-dasharray="5 5"/>
+<text x="886.0" y="660.0" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#444">DETAIL 6</text>
+<text x="886.0" y="762" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#444">LABEL</text>
+<text x="512" y="839" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#444">COLOR PALETTE</text>
+<rect x="48" y="866" width="124" height="54" fill="#fafafa" stroke="#ccc" stroke-dasharray="5 5"/>
+<text x="110.0" y="893.0" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#444">COLOR 1</text>
+<text x="110.0" y="947" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#444">ROLE</text>
+<text x="110.0" y="974" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#444">#HEXHEX</text>
+<rect x="182" y="866" width="124" height="54" fill="#fafafa" stroke="#ccc" stroke-dasharray="5 5"/>
+<text x="244.0" y="893.0" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#444">COLOR 2</text>
+<text x="244.0" y="947" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#444">ROLE</text>
+<text x="244.0" y="974" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#444">#HEXHEX</text>
+<rect x="316" y="866" width="124" height="54" fill="#fafafa" stroke="#ccc" stroke-dasharray="5 5"/>
+<text x="378.0" y="893.0" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#444">COLOR 3</text>
+<text x="378.0" y="947" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#444">ROLE</text>
+<text x="378.0" y="974" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#444">#HEXHEX</text>
+<rect x="450" y="866" width="124" height="54" fill="#fafafa" stroke="#ccc" stroke-dasharray="5 5"/>
+<text x="512.0" y="893.0" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#444">COLOR 4</text>
+<text x="512.0" y="947" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#444">ROLE</text>
+<text x="512.0" y="974" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#444">#HEXHEX</text>
+<rect x="584" y="866" width="124" height="54" fill="#fafafa" stroke="#ccc" stroke-dasharray="5 5"/>
+<text x="646.0" y="893.0" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#444">COLOR 5</text>
+<text x="646.0" y="947" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#444">ROLE</text>
+<text x="646.0" y="974" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#444">#HEXHEX</text>
+<rect x="718" y="866" width="124" height="54" fill="#fafafa" stroke="#ccc" stroke-dasharray="5 5"/>
+<text x="780.0" y="893.0" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#444">COLOR 6</text>
+<text x="780.0" y="947" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#444">ROLE</text>
+<text x="780.0" y="974" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#444">#HEXHEX</text>
+<rect x="852" y="866" width="124" height="54" fill="#fafafa" stroke="#ccc" stroke-dasharray="5 5"/>
+<text x="914.0" y="893.0" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#444">COLOR 7</text>
+<text x="914.0" y="947" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#444">ROLE</text>
+<text x="914.0" y="974" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#444">#HEXHEX</text>
+</svg>

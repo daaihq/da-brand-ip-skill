@@ -1,0 +1,13 @@
+interface:
+  display_name: DA 品牌 IP 创作室
+  short_description: 124种风格（含25种用户实测来源）创建个人与企业IP，按文章语言和发布平台设计白底配图
+  default_prompt: 使用 $da-brand-ip，为我的个人品牌、公司或组织创建 IP，先了解用途并推荐角色方向与风格。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

@@ -1,0 +1,1852 @@
+{
+  "from": "100-style-menu",
+  "to": "124-style-menu-fully-interleaved",
+  "date": "2026-09-28",
+  "note": "所有new_number指向当前全量交错菜单。mapping源为100种菜单；mapping_124_before_interleave源为最初124种菜单；mapping_124_partial_interleave源为保留前25、仅交错其余99种的菜单。稳定ID和风格文本不变。",
+  "mapping": [
+    {
+      "old_number": 1,
+      "id": "ILL-0082",
+      "name": "扁平插画",
+      "new_number": 70
+    },
+    {
+      "old_number": 2,
+      "id": "ILL-0083",
+      "name": "几何插画",
+      "new_number": 57
+    },
+    {
+      "old_number": 3,
+      "id": "ILL-0483",
+      "name": "轮廓矢量风",
+      "new_number": 54
+    },
+    {
+      "old_number": 4,
+      "id": "ILL-0166",
+      "name": "清线漫画",
+      "new_number": 25
+    },
+    {
+      "old_number": 5,
+      "id": "ILL-0191",
+      "name": "韩系极简",
+      "new_number": 13
+    },
+    {
+      "old_number": 6,
+      "id": "MCL-0562",
+      "name": "复古现代扁平",
+      "new_number": 24
+    },
+    {
+      "old_number": 7,
+      "id": "ILL-0173",
+      "name": "Q版角色",
+      "new_number": 78
+    },
+    {
+      "old_number": 8,
+      "id": "ILL-0174",
+      "name": "圆润可爱",
+      "new_number": 100
+    },
+    {
+      "old_number": 9,
+      "id": "ILL-0188",
+      "name": "日系治愈",
+      "new_number": 108
+    },
+    {
+      "old_number": 10,
+      "id": "ILL-0001",
+      "name": "透明水彩",
+      "new_number": 48
+    },
+    {
+      "old_number": 11,
+      "id": "ILL-0002",
+      "name": "哑光水粉",
+      "new_number": 123
+    },
+    {
+      "old_number": 12,
+      "id": "ILL-0017",
+      "name": "墨线淡彩",
+      "new_number": 96
+    },
+    {
+      "old_number": 13,
+      "id": "ILL-0005",
+      "name": "彩铅手绘",
+      "new_number": 68
+    },
+    {
+      "old_number": 14,
+      "id": "ILL-0006",
+      "name": "蜡笔童趣",
+      "new_number": 37
+    },
+    {
+      "old_number": 15,
+      "id": "ILL-0129",
+      "name": "北欧绘本",
+      "new_number": 67
+    },
+    {
+      "old_number": 16,
+      "id": "ILL-0139",
+      "name": "剪纸绘本",
+      "new_number": 97
+    },
+    {
+      "old_number": 17,
+      "id": "ILL-0433",
+      "name": "毛毡角色",
+      "new_number": 4
+    },
+    {
+      "old_number": 18,
+      "id": "MCL-0563",
+      "name": "韩式稚拙扁平",
+      "new_number": 101
+    },
+    {
+      "old_number": 19,
+      "id": "ILL-0221",
+      "name": "新中式",
+      "new_number": 58
+    },
+    {
+      "old_number": 20,
+      "id": "ILL-0224",
+      "name": "国潮角色",
+      "new_number": 3
+    },
+    {
+      "old_number": 21,
+      "id": "ILL-0454",
+      "name": "像素角色",
+      "new_number": 99
+    },
+    {
+      "old_number": 22,
+      "id": "ILL-0439",
+      "name": "手捏黏土",
+      "new_number": 116
+    },
+    {
+      "old_number": 23,
+      "id": "ILL-0436",
+      "name": "针织钩针",
+      "new_number": 103
+    },
+    {
+      "old_number": 24,
+      "id": "ILL-0451",
+      "name": "乙烯基潮玩",
+      "new_number": 56
+    },
+    {
+      "old_number": 25,
+      "id": "ILL-0003",
+      "name": "油画插画 Oil Painting",
+      "new_number": 74
+    },
+    {
+      "old_number": 26,
+      "id": "ILL-0004",
+      "name": "丙烯插画 Acrylic",
+      "new_number": 62
+    },
+    {
+      "old_number": 27,
+      "id": "ILL-0007",
+      "name": "油画棒 Oil Pastel",
+      "new_number": 55
+    },
+    {
+      "old_number": 28,
+      "id": "ILL-0008",
+      "name": "粉彩 Pastel",
+      "new_number": 90
+    },
+    {
+      "old_number": 29,
+      "id": "ILL-0010",
+      "name": "铅笔素描 Pencil Sketch",
+      "new_number": 110
+    },
+    {
+      "old_number": 30,
+      "id": "ILL-0011",
+      "name": "钢笔速写 Pen & Ink",
+      "new_number": 104
+    },
+    {
+      "old_number": 31,
+      "id": "ILL-0012",
+      "name": "针管笔 Fine Liner",
+      "new_number": 117
+    },
+    {
+      "old_number": 32,
+      "id": "ILL-0013",
+      "name": "马克笔 Marker Illustration",
+      "new_number": 20
+    },
+    {
+      "old_number": 33,
+      "id": "ILL-0014",
+      "name": "毛笔插画 Brush Ink",
+      "new_number": 31
+    },
+    {
+      "old_number": 34,
+      "id": "ILL-0018",
+      "name": "蛋彩画 Tempera",
+      "new_number": 83
+    },
+    {
+      "old_number": 35,
+      "id": "ILL-0022",
+      "name": "极简线稿 Minimal Line Art",
+      "new_number": 75
+    },
+    {
+      "old_number": 36,
+      "id": "ILL-0023",
+      "name": "自由线稿 Loose Line Drawing",
+      "new_number": 39
+    },
+    {
+      "old_number": 37,
+      "id": "ILL-0026",
+      "name": "交叉排线 Cross Hatching",
+      "new_number": 89
+    },
+    {
+      "old_number": 38,
+      "id": "ILL-0028",
+      "name": "木刻线条 Woodcut Line Art",
+      "new_number": 18
+    },
+    {
+      "old_number": 39,
+      "id": "ILL-0053",
+      "name": "Linocut 油毡版画",
+      "new_number": 41
+    },
+    {
+      "old_number": 40,
+      "id": "ILL-0056",
+      "name": "Lithography 石版画",
+      "new_number": 106
+    },
+    {
+      "old_number": 41,
+      "id": "ILL-0057",
+      "name": "Screen Print 丝网印刷",
+      "new_number": 33
+    },
+    {
+      "old_number": 42,
+      "id": "ILL-0058",
+      "name": "Risograph 孔版印刷",
+      "new_number": 85
+    },
+    {
+      "old_number": 43,
+      "id": "ILL-0060",
+      "name": "Monoprint 单版画",
+      "new_number": 95
+    },
+    {
+      "old_number": 44,
+      "id": "ILL-0066",
+      "name": "纸张拼贴 Paper Collage",
+      "new_number": 59
+    },
+    {
+      "old_number": 45,
+      "id": "ILL-0072",
+      "name": "撕纸 Torn Paper",
+      "new_number": 15
+    },
+    {
+      "old_number": 46,
+      "id": "ILL-0073",
+      "name": "儿童手工拼贴",
+      "new_number": 22
+    },
+    {
+      "old_number": 47,
+      "id": "ILL-0109",
+      "name": "1950s Children's Book",
+      "new_number": 112
+    },
+    {
+      "old_number": 48,
+      "id": "ILL-0127",
+      "name": "英式儿童绘本",
+      "new_number": 10
+    },
+    {
+      "old_number": 49,
+      "id": "ILL-0128",
+      "name": "法式绘本",
+      "new_number": 91
+    },
+    {
+      "old_number": 50,
+      "id": "ILL-0144",
+      "name": "童真涂鸦绘本",
+      "new_number": 17
+    },
+    {
+      "old_number": 51,
+      "id": "ILL-0147",
+      "name": "幻想冒险绘本",
+      "new_number": 32
+    },
+    {
+      "old_number": 52,
+      "id": "ILL-0148",
+      "name": "荒诞幽默绘本",
+      "new_number": 105
+    },
+    {
+      "old_number": 53,
+      "id": "ILL-0150",
+      "name": "科普绘本",
+      "new_number": 43
+    },
+    {
+      "old_number": 54,
+      "id": "ILL-0119",
+      "name": "1990s Cartoon",
+      "new_number": 84
+    },
+    {
+      "old_number": 55,
+      "id": "ILL-0151",
+      "name": "American Comic 美式漫画",
+      "new_number": 7
+    },
+    {
+      "old_number": 56,
+      "id": "ILL-0155",
+      "name": "Indie Comic 独立漫画",
+      "new_number": 46
+    },
+    {
+      "old_number": 57,
+      "id": "ILL-0158",
+      "name": "Graphic Novel 图像小说",
+      "new_number": 60
+    },
+    {
+      "old_number": 58,
+      "id": "ILL-0159",
+      "name": "Newspaper Comic Strip 报纸四格",
+      "new_number": 109
+    },
+    {
+      "old_number": 59,
+      "id": "ILL-0164",
+      "name": "Pop Art Comic 波普漫画",
+      "new_number": 119
+    },
+    {
+      "old_number": 60,
+      "id": "ILL-0167",
+      "name": "Anime Illustration 动漫插画",
+      "new_number": 34
+    },
+    {
+      "old_number": 61,
+      "id": "ILL-0169",
+      "name": "Shonen 少年漫画",
+      "new_number": 92
+    },
+    {
+      "old_number": 62,
+      "id": "ILL-0170",
+      "name": "Shojo 少女漫画",
+      "new_number": 16
+    },
+    {
+      "old_number": 63,
+      "id": "ILL-0172",
+      "name": "Josei 女性漫画",
+      "new_number": 69
+    },
+    {
+      "old_number": 64,
+      "id": "ILL-0177",
+      "name": "日系赛璐璐 Cel Shading",
+      "new_number": 40
+    },
+    {
+      "old_number": 65,
+      "id": "ILL-0182",
+      "name": "昭和漫画",
+      "new_number": 53
+    },
+    {
+      "old_number": 66,
+      "id": "ILL-0197",
+      "name": "韩系网漫 Webtoon",
+      "new_number": 102
+    },
+    {
+      "old_number": 67,
+      "id": "ILL-0199",
+      "name": "工笔画",
+      "new_number": 27
+    },
+    {
+      "old_number": 68,
+      "id": "ILL-0200",
+      "name": "写意画",
+      "new_number": 98
+    },
+    {
+      "old_number": 69,
+      "id": "ILL-0203",
+      "name": "白描",
+      "new_number": 12
+    },
+    {
+      "old_number": 70,
+      "id": "ILL-0207",
+      "name": "敦煌壁画",
+      "new_number": 65
+    },
+    {
+      "old_number": 71,
+      "id": "ILL-0209",
+      "name": "唐代人物画",
+      "new_number": 38
+    },
+    {
+      "old_number": 72,
+      "id": "ILL-0212",
+      "name": "年画",
+      "new_number": 71
+    },
+    {
+      "old_number": 73,
+      "id": "ILL-0215",
+      "name": "剪纸",
+      "new_number": 122
+    },
+    {
+      "old_number": 74,
+      "id": "ILL-0222",
+      "name": "东方极简",
+      "new_number": 52
+    },
+    {
+      "old_number": 75,
+      "id": "ILL-0226",
+      "name": "民俗插画",
+      "new_number": 21
+    },
+    {
+      "old_number": 76,
+      "id": "ILL-0228",
+      "name": "Ukiyo-e 浮世绘",
+      "new_number": 79
+    },
+    {
+      "old_number": 77,
+      "id": "ILL-0233",
+      "name": "大正浪漫",
+      "new_number": 86
+    },
+    {
+      "old_number": 78,
+      "id": "ILL-0414",
+      "name": "Mexican Folk Art",
+      "new_number": 45
+    },
+    {
+      "old_number": 79,
+      "id": "ILL-0415",
+      "name": "Scandinavian Folk",
+      "new_number": 11
+    },
+    {
+      "old_number": 80,
+      "id": "ILL-0365",
+      "name": "Pet Portrait Illustration",
+      "new_number": 61
+    },
+    {
+      "old_number": 81,
+      "id": "ILL-0367",
+      "name": "Children's Animal Illustration",
+      "new_number": 50
+    },
+    {
+      "old_number": 82,
+      "id": "ILL-0370",
+      "name": "Cute Doodle",
+      "new_number": 35
+    },
+    {
+      "old_number": 83,
+      "id": "ILL-0378",
+      "name": "Sticker Illustration",
+      "new_number": 9
+    },
+    {
+      "old_number": 84,
+      "id": "ILL-0404",
+      "name": "Naive Art 稚拙艺术",
+      "new_number": 44
+    },
+    {
+      "old_number": 85,
+      "id": "ILL-0411",
+      "name": "Wonky Illustration",
+      "new_number": 28
+    },
+    {
+      "old_number": 86,
+      "id": "ILL-0429",
+      "name": "Origami Illustration",
+      "new_number": 49
+    },
+    {
+      "old_number": 87,
+      "id": "ILL-0430",
+      "name": "Paper Sculpture",
+      "new_number": 87
+    },
+    {
+      "old_number": 88,
+      "id": "ILL-0431",
+      "name": "Papier-mâché",
+      "new_number": 66
+    },
+    {
+      "old_number": 89,
+      "id": "ILL-0432",
+      "name": "Cardboard Illustration",
+      "new_number": 73
+    },
+    {
+      "old_number": 90,
+      "id": "ILL-0435",
+      "name": "Embroidery Illustration",
+      "new_number": 114
+    },
+    {
+      "old_number": 91,
+      "id": "ILL-0437",
+      "name": "Patchwork",
+      "new_number": 120
+    },
+    {
+      "old_number": 92,
+      "id": "ILL-0442",
+      "name": "Ceramic Illustration",
+      "new_number": 26
+    },
+    {
+      "old_number": 93,
+      "id": "ILL-0452",
+      "name": "Inflatable Toy",
+      "new_number": 14
+    },
+    {
+      "old_number": 94,
+      "id": "ILL-0453",
+      "name": "Foam Sculpture",
+      "new_number": 77
+    },
+    {
+      "old_number": 95,
+      "id": "ILL-0458",
+      "name": "Gameboy",
+      "new_number": 115
+    },
+    {
+      "old_number": 96,
+      "id": "ILL-0460",
+      "name": "JRPG Sprite",
+      "new_number": 80
+    },
+    {
+      "old_number": 97,
+      "id": "ILL-0464",
+      "name": "Voxel Art",
+      "new_number": 93
+    },
+    {
+      "old_number": 98,
+      "id": "ILL-0465",
+      "name": "Low-poly Illustration",
+      "new_number": 23
+    },
+    {
+      "old_number": 99,
+      "id": "ILL-0467",
+      "name": "Semi-realistic Illustration",
+      "new_number": 51
+    },
+    {
+      "old_number": 100,
+      "id": "ILL-0482",
+      "name": "Gradient Vector",
+      "new_number": 94
+    }
+  ],
+  "mapping_124_before_interleave": [
+    {
+      "old_number": 1,
+      "id": "USR-0001",
+      "new_number": 82
+    },
+    {
+      "old_number": 2,
+      "id": "USR-0002",
+      "new_number": 72
+    },
+    {
+      "old_number": 3,
+      "id": "USR-0003",
+      "new_number": 118
+    },
+    {
+      "old_number": 4,
+      "id": "USR-0004",
+      "new_number": 6
+    },
+    {
+      "old_number": 5,
+      "id": "USR-0005",
+      "new_number": 76
+    },
+    {
+      "old_number": 6,
+      "id": "USR-0006",
+      "new_number": 2
+    },
+    {
+      "old_number": 7,
+      "id": "USR-0007",
+      "new_number": 121
+    },
+    {
+      "old_number": 8,
+      "id": "USR-0008",
+      "new_number": 47
+    },
+    {
+      "old_number": 9,
+      "id": "USR-0009",
+      "new_number": 64
+    },
+    {
+      "old_number": 10,
+      "id": "USR-0010",
+      "new_number": 88
+    },
+    {
+      "old_number": 11,
+      "id": "ILL-0085",
+      "new_number": 36
+    },
+    {
+      "old_number": 12,
+      "id": "ILL-0086",
+      "new_number": 107
+    },
+    {
+      "old_number": 13,
+      "id": "ILL-0087",
+      "new_number": 113
+    },
+    {
+      "old_number": 14,
+      "id": "ILL-0088",
+      "new_number": 19
+    },
+    {
+      "old_number": 15,
+      "id": "ILL-0089",
+      "new_number": 124
+    },
+    {
+      "old_number": 16,
+      "id": "ILL-0090",
+      "new_number": 8
+    },
+    {
+      "old_number": 17,
+      "id": "ILL-0091",
+      "new_number": 42
+    },
+    {
+      "old_number": 18,
+      "id": "ILL-0092",
+      "new_number": 63
+    },
+    {
+      "old_number": 19,
+      "id": "ILL-0093",
+      "new_number": 1
+    },
+    {
+      "old_number": 20,
+      "id": "ILL-0094",
+      "new_number": 30
+    },
+    {
+      "old_number": 21,
+      "id": "MCL-0556",
+      "new_number": 29
+    },
+    {
+      "old_number": 22,
+      "id": "MCL-0557",
+      "new_number": 5
+    },
+    {
+      "old_number": 23,
+      "id": "MCL-0558",
+      "new_number": 81
+    },
+    {
+      "old_number": 24,
+      "id": "MCL-0559",
+      "new_number": 111
+    },
+    {
+      "old_number": 25,
+      "id": "MCL-0562",
+      "new_number": 24
+    },
+    {
+      "old_number": 26,
+      "id": "ILL-0082",
+      "new_number": 70
+    },
+    {
+      "old_number": 27,
+      "id": "ILL-0083",
+      "new_number": 57
+    },
+    {
+      "old_number": 28,
+      "id": "ILL-0483",
+      "new_number": 54
+    },
+    {
+      "old_number": 29,
+      "id": "ILL-0166",
+      "new_number": 25
+    },
+    {
+      "old_number": 30,
+      "id": "ILL-0191",
+      "new_number": 13
+    },
+    {
+      "old_number": 31,
+      "id": "ILL-0173",
+      "new_number": 78
+    },
+    {
+      "old_number": 32,
+      "id": "ILL-0174",
+      "new_number": 100
+    },
+    {
+      "old_number": 33,
+      "id": "ILL-0188",
+      "new_number": 108
+    },
+    {
+      "old_number": 34,
+      "id": "ILL-0001",
+      "new_number": 48
+    },
+    {
+      "old_number": 35,
+      "id": "ILL-0002",
+      "new_number": 123
+    },
+    {
+      "old_number": 36,
+      "id": "ILL-0017",
+      "new_number": 96
+    },
+    {
+      "old_number": 37,
+      "id": "ILL-0005",
+      "new_number": 68
+    },
+    {
+      "old_number": 38,
+      "id": "ILL-0006",
+      "new_number": 37
+    },
+    {
+      "old_number": 39,
+      "id": "ILL-0129",
+      "new_number": 67
+    },
+    {
+      "old_number": 40,
+      "id": "ILL-0139",
+      "new_number": 97
+    },
+    {
+      "old_number": 41,
+      "id": "ILL-0433",
+      "new_number": 4
+    },
+    {
+      "old_number": 42,
+      "id": "MCL-0563",
+      "new_number": 101
+    },
+    {
+      "old_number": 43,
+      "id": "ILL-0221",
+      "new_number": 58
+    },
+    {
+      "old_number": 44,
+      "id": "ILL-0224",
+      "new_number": 3
+    },
+    {
+      "old_number": 45,
+      "id": "ILL-0454",
+      "new_number": 99
+    },
+    {
+      "old_number": 46,
+      "id": "ILL-0439",
+      "new_number": 116
+    },
+    {
+      "old_number": 47,
+      "id": "ILL-0436",
+      "new_number": 103
+    },
+    {
+      "old_number": 48,
+      "id": "ILL-0451",
+      "new_number": 56
+    },
+    {
+      "old_number": 49,
+      "id": "ILL-0003",
+      "new_number": 74
+    },
+    {
+      "old_number": 50,
+      "id": "ILL-0004",
+      "new_number": 62
+    },
+    {
+      "old_number": 51,
+      "id": "ILL-0007",
+      "new_number": 55
+    },
+    {
+      "old_number": 52,
+      "id": "ILL-0008",
+      "new_number": 90
+    },
+    {
+      "old_number": 53,
+      "id": "ILL-0010",
+      "new_number": 110
+    },
+    {
+      "old_number": 54,
+      "id": "ILL-0011",
+      "new_number": 104
+    },
+    {
+      "old_number": 55,
+      "id": "ILL-0012",
+      "new_number": 117
+    },
+    {
+      "old_number": 56,
+      "id": "ILL-0013",
+      "new_number": 20
+    },
+    {
+      "old_number": 57,
+      "id": "ILL-0014",
+      "new_number": 31
+    },
+    {
+      "old_number": 58,
+      "id": "ILL-0018",
+      "new_number": 83
+    },
+    {
+      "old_number": 59,
+      "id": "ILL-0022",
+      "new_number": 75
+    },
+    {
+      "old_number": 60,
+      "id": "ILL-0023",
+      "new_number": 39
+    },
+    {
+      "old_number": 61,
+      "id": "ILL-0026",
+      "new_number": 89
+    },
+    {
+      "old_number": 62,
+      "id": "ILL-0028",
+      "new_number": 18
+    },
+    {
+      "old_number": 63,
+      "id": "ILL-0053",
+      "new_number": 41
+    },
+    {
+      "old_number": 64,
+      "id": "ILL-0056",
+      "new_number": 106
+    },
+    {
+      "old_number": 65,
+      "id": "ILL-0057",
+      "new_number": 33
+    },
+    {
+      "old_number": 66,
+      "id": "ILL-0058",
+      "new_number": 85
+    },
+    {
+      "old_number": 67,
+      "id": "ILL-0060",
+      "new_number": 95
+    },
+    {
+      "old_number": 68,
+      "id": "ILL-0066",
+      "new_number": 59
+    },
+    {
+      "old_number": 69,
+      "id": "ILL-0072",
+      "new_number": 15
+    },
+    {
+      "old_number": 70,
+      "id": "ILL-0073",
+      "new_number": 22
+    },
+    {
+      "old_number": 71,
+      "id": "ILL-0109",
+      "new_number": 112
+    },
+    {
+      "old_number": 72,
+      "id": "ILL-0127",
+      "new_number": 10
+    },
+    {
+      "old_number": 73,
+      "id": "ILL-0128",
+      "new_number": 91
+    },
+    {
+      "old_number": 74,
+      "id": "ILL-0144",
+      "new_number": 17
+    },
+    {
+      "old_number": 75,
+      "id": "ILL-0147",
+      "new_number": 32
+    },
+    {
+      "old_number": 76,
+      "id": "ILL-0148",
+      "new_number": 105
+    },
+    {
+      "old_number": 77,
+      "id": "ILL-0150",
+      "new_number": 43
+    },
+    {
+      "old_number": 78,
+      "id": "ILL-0119",
+      "new_number": 84
+    },
+    {
+      "old_number": 79,
+      "id": "ILL-0151",
+      "new_number": 7
+    },
+    {
+      "old_number": 80,
+      "id": "ILL-0155",
+      "new_number": 46
+    },
+    {
+      "old_number": 81,
+      "id": "ILL-0158",
+      "new_number": 60
+    },
+    {
+      "old_number": 82,
+      "id": "ILL-0159",
+      "new_number": 109
+    },
+    {
+      "old_number": 83,
+      "id": "ILL-0164",
+      "new_number": 119
+    },
+    {
+      "old_number": 84,
+      "id": "ILL-0167",
+      "new_number": 34
+    },
+    {
+      "old_number": 85,
+      "id": "ILL-0169",
+      "new_number": 92
+    },
+    {
+      "old_number": 86,
+      "id": "ILL-0170",
+      "new_number": 16
+    },
+    {
+      "old_number": 87,
+      "id": "ILL-0172",
+      "new_number": 69
+    },
+    {
+      "old_number": 88,
+      "id": "ILL-0177",
+      "new_number": 40
+    },
+    {
+      "old_number": 89,
+      "id": "ILL-0182",
+      "new_number": 53
+    },
+    {
+      "old_number": 90,
+      "id": "ILL-0197",
+      "new_number": 102
+    },
+    {
+      "old_number": 91,
+      "id": "ILL-0199",
+      "new_number": 27
+    },
+    {
+      "old_number": 92,
+      "id": "ILL-0200",
+      "new_number": 98
+    },
+    {
+      "old_number": 93,
+      "id": "ILL-0203",
+      "new_number": 12
+    },
+    {
+      "old_number": 94,
+      "id": "ILL-0207",
+      "new_number": 65
+    },
+    {
+      "old_number": 95,
+      "id": "ILL-0209",
+      "new_number": 38
+    },
+    {
+      "old_number": 96,
+      "id": "ILL-0212",
+      "new_number": 71
+    },
+    {
+      "old_number": 97,
+      "id": "ILL-0215",
+      "new_number": 122
+    },
+    {
+      "old_number": 98,
+      "id": "ILL-0222",
+      "new_number": 52
+    },
+    {
+      "old_number": 99,
+      "id": "ILL-0226",
+      "new_number": 21
+    },
+    {
+      "old_number": 100,
+      "id": "ILL-0228",
+      "new_number": 79
+    },
+    {
+      "old_number": 101,
+      "id": "ILL-0233",
+      "new_number": 86
+    },
+    {
+      "old_number": 102,
+      "id": "ILL-0414",
+      "new_number": 45
+    },
+    {
+      "old_number": 103,
+      "id": "ILL-0415",
+      "new_number": 11
+    },
+    {
+      "old_number": 104,
+      "id": "ILL-0365",
+      "new_number": 61
+    },
+    {
+      "old_number": 105,
+      "id": "ILL-0367",
+      "new_number": 50
+    },
+    {
+      "old_number": 106,
+      "id": "ILL-0370",
+      "new_number": 35
+    },
+    {
+      "old_number": 107,
+      "id": "ILL-0378",
+      "new_number": 9
+    },
+    {
+      "old_number": 108,
+      "id": "ILL-0404",
+      "new_number": 44
+    },
+    {
+      "old_number": 109,
+      "id": "ILL-0411",
+      "new_number": 28
+    },
+    {
+      "old_number": 110,
+      "id": "ILL-0429",
+      "new_number": 49
+    },
+    {
+      "old_number": 111,
+      "id": "ILL-0430",
+      "new_number": 87
+    },
+    {
+      "old_number": 112,
+      "id": "ILL-0431",
+      "new_number": 66
+    },
+    {
+      "old_number": 113,
+      "id": "ILL-0432",
+      "new_number": 73
+    },
+    {
+      "old_number": 114,
+      "id": "ILL-0435",
+      "new_number": 114
+    },
+    {
+      "old_number": 115,
+      "id": "ILL-0437",
+      "new_number": 120
+    },
+    {
+      "old_number": 116,
+      "id": "ILL-0442",
+      "new_number": 26
+    },
+    {
+      "old_number": 117,
+      "id": "ILL-0452",
+      "new_number": 14
+    },
+    {
+      "old_number": 118,
+      "id": "ILL-0453",
+      "new_number": 77
+    },
+    {
+      "old_number": 119,
+      "id": "ILL-0458",
+      "new_number": 115
+    },
+    {
+      "old_number": 120,
+      "id": "ILL-0460",
+      "new_number": 80
+    },
+    {
+      "old_number": 121,
+      "id": "ILL-0464",
+      "new_number": 93
+    },
+    {
+      "old_number": 122,
+      "id": "ILL-0465",
+      "new_number": 23
+    },
+    {
+      "old_number": 123,
+      "id": "ILL-0467",
+      "new_number": 51
+    },
+    {
+      "old_number": 124,
+      "id": "ILL-0482",
+      "new_number": 94
+    }
+  ],
+  "mapping_124_partial_interleave": [
+    {
+      "old_number": 1,
+      "id": "USR-0001",
+      "new_number": 82
+    },
+    {
+      "old_number": 2,
+      "id": "USR-0002",
+      "new_number": 72
+    },
+    {
+      "old_number": 3,
+      "id": "USR-0003",
+      "new_number": 118
+    },
+    {
+      "old_number": 4,
+      "id": "USR-0004",
+      "new_number": 6
+    },
+    {
+      "old_number": 5,
+      "id": "USR-0005",
+      "new_number": 76
+    },
+    {
+      "old_number": 6,
+      "id": "USR-0006",
+      "new_number": 2
+    },
+    {
+      "old_number": 7,
+      "id": "USR-0007",
+      "new_number": 121
+    },
+    {
+      "old_number": 8,
+      "id": "USR-0008",
+      "new_number": 47
+    },
+    {
+      "old_number": 9,
+      "id": "USR-0009",
+      "new_number": 64
+    },
+    {
+      "old_number": 10,
+      "id": "USR-0010",
+      "new_number": 88
+    },
+    {
+      "old_number": 11,
+      "id": "ILL-0085",
+      "new_number": 36
+    },
+    {
+      "old_number": 12,
+      "id": "ILL-0086",
+      "new_number": 107
+    },
+    {
+      "old_number": 13,
+      "id": "ILL-0087",
+      "new_number": 113
+    },
+    {
+      "old_number": 14,
+      "id": "ILL-0088",
+      "new_number": 19
+    },
+    {
+      "old_number": 15,
+      "id": "ILL-0089",
+      "new_number": 124
+    },
+    {
+      "old_number": 16,
+      "id": "ILL-0090",
+      "new_number": 8
+    },
+    {
+      "old_number": 17,
+      "id": "ILL-0091",
+      "new_number": 42
+    },
+    {
+      "old_number": 18,
+      "id": "ILL-0092",
+      "new_number": 63
+    },
+    {
+      "old_number": 19,
+      "id": "ILL-0093",
+      "new_number": 1
+    },
+    {
+      "old_number": 20,
+      "id": "ILL-0094",
+      "new_number": 30
+    },
+    {
+      "old_number": 21,
+      "id": "MCL-0556",
+      "new_number": 29
+    },
+    {
+      "old_number": 22,
+      "id": "MCL-0557",
+      "new_number": 5
+    },
+    {
+      "old_number": 23,
+      "id": "MCL-0558",
+      "new_number": 81
+    },
+    {
+      "old_number": 24,
+      "id": "MCL-0559",
+      "new_number": 111
+    },
+    {
+      "old_number": 25,
+      "id": "MCL-0562",
+      "new_number": 24
+    },
+    {
+      "old_number": 26,
+      "id": "ILL-0002",
+      "new_number": 123
+    },
+    {
+      "old_number": 27,
+      "id": "ILL-0483",
+      "new_number": 54
+    },
+    {
+      "old_number": 28,
+      "id": "ILL-0164",
+      "new_number": 119
+    },
+    {
+      "old_number": 29,
+      "id": "ILL-0053",
+      "new_number": 41
+    },
+    {
+      "old_number": 30,
+      "id": "ILL-0209",
+      "new_number": 38
+    },
+    {
+      "old_number": 31,
+      "id": "ILL-0191",
+      "new_number": 13
+    },
+    {
+      "old_number": 32,
+      "id": "ILL-0429",
+      "new_number": 49
+    },
+    {
+      "old_number": 33,
+      "id": "ILL-0150",
+      "new_number": 43
+    },
+    {
+      "old_number": 34,
+      "id": "ILL-0023",
+      "new_number": 39
+    },
+    {
+      "old_number": 35,
+      "id": "ILL-0415",
+      "new_number": 11
+    },
+    {
+      "old_number": 36,
+      "id": "ILL-0182",
+      "new_number": 53
+    },
+    {
+      "old_number": 37,
+      "id": "ILL-0482",
+      "new_number": 94
+    },
+    {
+      "old_number": 38,
+      "id": "ILL-0007",
+      "new_number": 55
+    },
+    {
+      "old_number": 39,
+      "id": "ILL-0460",
+      "new_number": 80
+    },
+    {
+      "old_number": 40,
+      "id": "ILL-0404",
+      "new_number": 44
+    },
+    {
+      "old_number": 41,
+      "id": "ILL-0226",
+      "new_number": 21
+    },
+    {
+      "old_number": 42,
+      "id": "ILL-0414",
+      "new_number": 45
+    },
+    {
+      "old_number": 43,
+      "id": "ILL-0013",
+      "new_number": 20
+    },
+    {
+      "old_number": 44,
+      "id": "ILL-0437",
+      "new_number": 120
+    },
+    {
+      "old_number": 45,
+      "id": "ILL-0151",
+      "new_number": 7
+    },
+    {
+      "old_number": 46,
+      "id": "ILL-0467",
+      "new_number": 51
+    },
+    {
+      "old_number": 47,
+      "id": "ILL-0203",
+      "new_number": 12
+    },
+    {
+      "old_number": 48,
+      "id": "ILL-0073",
+      "new_number": 22
+    },
+    {
+      "old_number": 49,
+      "id": "ILL-0435",
+      "new_number": 114
+    },
+    {
+      "old_number": 50,
+      "id": "ILL-0167",
+      "new_number": 34
+    },
+    {
+      "old_number": 51,
+      "id": "ILL-0004",
+      "new_number": 62
+    },
+    {
+      "old_number": 52,
+      "id": "ILL-0370",
+      "new_number": 35
+    },
+    {
+      "old_number": 53,
+      "id": "ILL-0026",
+      "new_number": 89
+    },
+    {
+      "old_number": 54,
+      "id": "ILL-0222",
+      "new_number": 52
+    },
+    {
+      "old_number": 55,
+      "id": "ILL-0127",
+      "new_number": 10
+    },
+    {
+      "old_number": 56,
+      "id": "ILL-0159",
+      "new_number": 109
+    },
+    {
+      "old_number": 57,
+      "id": "ILL-0174",
+      "new_number": 100
+    },
+    {
+      "old_number": 58,
+      "id": "ILL-0464",
+      "new_number": 93
+    },
+    {
+      "old_number": 59,
+      "id": "ILL-0001",
+      "new_number": 48
+    },
+    {
+      "old_number": 60,
+      "id": "ILL-0436",
+      "new_number": 103
+    },
+    {
+      "old_number": 61,
+      "id": "MCL-0563",
+      "new_number": 101
+    },
+    {
+      "old_number": 62,
+      "id": "ILL-0442",
+      "new_number": 26
+    },
+    {
+      "old_number": 63,
+      "id": "ILL-0144",
+      "new_number": 17
+    },
+    {
+      "old_number": 64,
+      "id": "ILL-0005",
+      "new_number": 68
+    },
+    {
+      "old_number": 65,
+      "id": "ILL-0169",
+      "new_number": 92
+    },
+    {
+      "old_number": 66,
+      "id": "ILL-0431",
+      "new_number": 66
+    },
+    {
+      "old_number": 67,
+      "id": "ILL-0224",
+      "new_number": 3
+    },
+    {
+      "old_number": 68,
+      "id": "ILL-0060",
+      "new_number": 95
+    },
+    {
+      "old_number": 69,
+      "id": "ILL-0017",
+      "new_number": 96
+    },
+    {
+      "old_number": 70,
+      "id": "ILL-0365",
+      "new_number": 61
+    },
+    {
+      "old_number": 71,
+      "id": "ILL-0197",
+      "new_number": 102
+    },
+    {
+      "old_number": 72,
+      "id": "ILL-0072",
+      "new_number": 15
+    },
+    {
+      "old_number": 73,
+      "id": "ILL-0128",
+      "new_number": 91
+    },
+    {
+      "old_number": 74,
+      "id": "ILL-0006",
+      "new_number": 37
+    },
+    {
+      "old_number": 75,
+      "id": "ILL-0465",
+      "new_number": 23
+    },
+    {
+      "old_number": 76,
+      "id": "ILL-0173",
+      "new_number": 78
+    },
+    {
+      "old_number": 77,
+      "id": "ILL-0451",
+      "new_number": 56
+    },
+    {
+      "old_number": 78,
+      "id": "ILL-0215",
+      "new_number": 122
+    },
+    {
+      "old_number": 79,
+      "id": "ILL-0008",
+      "new_number": 90
+    },
+    {
+      "old_number": 80,
+      "id": "ILL-0119",
+      "new_number": 84
+    },
+    {
+      "old_number": 81,
+      "id": "ILL-0028",
+      "new_number": 18
+    },
+    {
+      "old_number": 82,
+      "id": "ILL-0367",
+      "new_number": 50
+    },
+    {
+      "old_number": 83,
+      "id": "ILL-0432",
+      "new_number": 73
+    },
+    {
+      "old_number": 84,
+      "id": "ILL-0233",
+      "new_number": 86
+    },
+    {
+      "old_number": 85,
+      "id": "ILL-0458",
+      "new_number": 115
+    },
+    {
+      "old_number": 86,
+      "id": "ILL-0147",
+      "new_number": 32
+    },
+    {
+      "old_number": 87,
+      "id": "ILL-0177",
+      "new_number": 40
+    },
+    {
+      "old_number": 88,
+      "id": "ILL-0018",
+      "new_number": 83
+    },
+    {
+      "old_number": 89,
+      "id": "ILL-0066",
+      "new_number": 59
+    },
+    {
+      "old_number": 90,
+      "id": "ILL-0439",
+      "new_number": 116
+    },
+    {
+      "old_number": 91,
+      "id": "ILL-0129",
+      "new_number": 67
+    },
+    {
+      "old_number": 92,
+      "id": "ILL-0212",
+      "new_number": 71
+    },
+    {
+      "old_number": 93,
+      "id": "ILL-0003",
+      "new_number": 74
+    },
+    {
+      "old_number": 94,
+      "id": "ILL-0166",
+      "new_number": 25
+    },
+    {
+      "old_number": 95,
+      "id": "ILL-0430",
+      "new_number": 87
+    },
+    {
+      "old_number": 96,
+      "id": "ILL-0083",
+      "new_number": 57
+    },
+    {
+      "old_number": 97,
+      "id": "ILL-0199",
+      "new_number": 27
+    },
+    {
+      "old_number": 98,
+      "id": "ILL-0058",
+      "new_number": 85
+    },
+    {
+      "old_number": 99,
+      "id": "ILL-0148",
+      "new_number": 105
+    },
+    {
+      "old_number": 100,
+      "id": "ILL-0155",
+      "new_number": 46
+    },
+    {
+      "old_number": 101,
+      "id": "ILL-0411",
+      "new_number": 28
+    },
+    {
+      "old_number": 102,
+      "id": "ILL-0022",
+      "new_number": 75
+    },
+    {
+      "old_number": 103,
+      "id": "ILL-0200",
+      "new_number": 98
+    },
+    {
+      "old_number": 104,
+      "id": "ILL-0452",
+      "new_number": 14
+    },
+    {
+      "old_number": 105,
+      "id": "ILL-0158",
+      "new_number": 60
+    },
+    {
+      "old_number": 106,
+      "id": "ILL-0188",
+      "new_number": 108
+    },
+    {
+      "old_number": 107,
+      "id": "ILL-0082",
+      "new_number": 70
+    },
+    {
+      "old_number": 108,
+      "id": "ILL-0228",
+      "new_number": 79
+    },
+    {
+      "old_number": 109,
+      "id": "ILL-0010",
+      "new_number": 110
+    },
+    {
+      "old_number": 110,
+      "id": "ILL-0453",
+      "new_number": 77
+    },
+    {
+      "old_number": 111,
+      "id": "ILL-0454",
+      "new_number": 99
+    },
+    {
+      "old_number": 112,
+      "id": "ILL-0378",
+      "new_number": 9
+    },
+    {
+      "old_number": 113,
+      "id": "ILL-0109",
+      "new_number": 112
+    },
+    {
+      "old_number": 114,
+      "id": "ILL-0014",
+      "new_number": 31
+    },
+    {
+      "old_number": 115,
+      "id": "ILL-0433",
+      "new_number": 4
+    },
+    {
+      "old_number": 116,
+      "id": "ILL-0057",
+      "new_number": 33
+    },
+    {
+      "old_number": 117,
+      "id": "ILL-0221",
+      "new_number": 58
+    },
+    {
+      "old_number": 118,
+      "id": "ILL-0172",
+      "new_number": 69
+    },
+    {
+      "old_number": 119,
+      "id": "ILL-0011",
+      "new_number": 104
+    },
+    {
+      "old_number": 120,
+      "id": "ILL-0139",
+      "new_number": 97
+    },
+    {
+      "old_number": 121,
+      "id": "ILL-0056",
+      "new_number": 106
+    },
+    {
+      "old_number": 122,
+      "id": "ILL-0207",
+      "new_number": 65
+    },
+    {
+      "old_number": 123,
+      "id": "ILL-0170",
+      "new_number": 16
+    },
+    {
+      "old_number": 124,
+      "id": "ILL-0012",
+      "new_number": 117
+    }
+  ]
+}
