@@ -46,7 +46,9 @@ Publishing platform: my website. Full article: [paste text]
 
 ## 124 styles and visual references
 
-Choose by number, name, or stable ID in the current [style menu](references/style-menu.md). The five supplied reference sheets below have been compressed to JPEG. **Some embedded names and numbers differ from the current menu; these are not a one-to-one preview of all 124 presets.** Use the menu and individual style files as the authority. Click a sheet to enlarge it.
+Choose by three-digit ID or name in the current [style menu](references/style-menu.md). The five preview sheets follow menu order: 001–025, 026–050, 051–075, 076–100, and 101–124, with the final cell left blank. Each square JPEG retains its 1254×1254 resolution. Refer to the individual style files for detailed rules. Click a sheet to enlarge it.
+
+Style numbers, IDs, and filenames use the same three-digit sequence `001–124`; for example, `001` resolves to `references/styles/001.md`.
 
 [![Style reference sheet 1](assets/previews/1.jpg)](assets/previews/1.jpg)
 

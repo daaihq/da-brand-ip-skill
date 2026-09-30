@@ -44,7 +44,9 @@ cp -R SKILL.md agents assets references scripts requirements.txt "$HOME/.codex/s
 
 ## 124 种风格与视觉参考
 
-用当前[风格菜单](references/style-menu.md)中的编号、名称或稳定 ID 选择。以下五张图是用户提供的视觉参考，已压缩为 JPEG；**图内部分名称和编号与当前菜单不一致，不代表 124 种预设的一一对应预览**。选风格请以菜单和对应规则文件为准。点击可查看大图。
+用当前[风格菜单](references/style-menu.md)中的三位编号或名称选择。以下五张预览图按菜单顺序展示 001–025、026–050、051–075、076–100、101–124，第五张最后一格留白。图片为 1:1 方图，保留 1254×1254 分辨率并压缩为 JPEG。具体风格要求以对应规则文件为准，点击图片可查看大图。
+
+风格编号、ID 和文件名统一为三位数字 `001–124`，例如 `001` 对应 `references/styles/001.md`。
 
 [![Style reference sheet 1](assets/previews/1.jpg)](assets/previews/1.jpg)
 

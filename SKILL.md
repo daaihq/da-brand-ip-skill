@@ -30,7 +30,7 @@ description: 为个人、企业、公司、品牌、学校、社群及组织创�
 | 列出／切换／导入导出／跨端恢复 | `references/package-management.md` |
 | X分享／修订当前风格 | `references/style-updates.md` |
 
-旧100种菜单编号查 `references/style-number-map.json`；菜单序号可变，角色包按稳定ID与当时保存的规范／提示词复用。更新风格文字不追溯改写已确认角色。Logo／头像／徽章／场景型条目先按文件的用途适配，不把头像或实物背面冒充全身角色三视图。
+编号与风格ID统一使用三位数字 `001–124`，与 `references/styles/001.md` 至 `124.md` 一一对应；角色包的 style_id 保存三位数字字符串。更新风格文字不追溯改写已确认角色。Logo／头像／徽章／场景型条目先按文件的用途适配，不把头像或实物背面冒充全身角色三视图。
 
 需要图像工具时读取 `references/tool-adapters.md`。只使用实际可用能力，不因为存在脚本就宣称已生成图片。
 
