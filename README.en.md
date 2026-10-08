@@ -1,10 +1,10 @@
 # DA Brand IP · Character Design Studio
 
-![Skill](https://img.shields.io/badge/Skill-Codex-111111?style=flat-square) ![Styles](https://img.shields.io/badge/Styles-124-8B5CF6?style=flat-square) ![Output](https://img.shields.io/badge/Output-3_Design_Assets-FF4D6D?style=flat-square)
+![Skill](https://img.shields.io/badge/Skill-Codex-111111?style=flat-square) ![Styles](https://img.shields.io/badge/Styles-149-8B5CF6?style=flat-square) ![Output](https://img.shields.io/badge/Output-3_Design_Assets-FF4D6D?style=flat-square)
 
 [简体中文](README.md) · [English](README.en.md) · [日本語](README.ja.md) · [한국어](README.ko.md)
 
-`da-brand-ip` turns the identity of a person, company, product, or organization into reusable character assets. It includes 124 styles and guides you from a brand brief and concept selection to three design sheets and subsequent editorial or promotional images.
+`da-brand-ip` turns the identity of a person, company, product, or organization into reusable character assets. It includes 149 styles and guides you from a brand brief and concept selection to three design sheets and subsequent editorial or promotional images.
 
 ## Highlights
 
@@ -44,11 +44,11 @@ Use $da-brand-ip and my confirmed character to illustrate this blog article.
 Publishing platform: my website. Full article: [paste text]
 ```
 
-## 124 styles and visual references
+## 149 styles and visual references
 
-Choose by three-digit ID or name in the current [style menu](references/style-menu.md). The five preview sheets follow menu order: 001–025, 026–050, 051–075, 076–100, and 101–124, with the final cell left blank. Each square JPEG retains its 1254×1254 resolution. Refer to the individual style files for detailed rules. Click a sheet to enlarge it.
+Choose by three-digit ID or name in the [style menu](references/style-menu.md). Six square JPEG previews cover 001–025, 026–050, 051–075, 076–100, 101–124, and 125–149. The last cell of sheet five is blank. Refer to individual style files for detailed rules; click an image to enlarge it.
 
-Style numbers, IDs, and filenames use the same three-digit sequence `001–124`; for example, `001` resolves to `references/styles/001.md`.
+Style numbers, IDs, and filenames use the same three-digit sequence `001–149`; for example, `001` resolves to `references/styles/001.md`.
 
 [![Style reference sheet 1](assets/previews/1.jpg)](assets/previews/1.jpg)
 
@@ -59,6 +59,10 @@ Style numbers, IDs, and filenames use the same three-digit sequence `001–124`;
 [![Style reference sheet 4](assets/previews/4.jpg)](assets/previews/4.jpg)
 
 [![Style reference sheet 5](assets/previews/5.jpg)](assets/previews/5.jpg)
+
+[![Style reference sheet 6 — 125–149](assets/previews/6.jpg)](assets/previews/6.jpg)
+
+The user approved full-body previews for styles 125–149. Turnarounds, action/expression sheets, and non-human characters have not yet been image-validated for these styles.
 
 ## Workflow and deliverables
 

@@ -8,7 +8,7 @@
 
 `character.json` 包含 brand_id、brand_name、entity_type、character_id、character_name、style_id、identity（完整身份文字）、palette（色板列表）、allowed_changes、forbidden_changes、actions（恰好5个标签／描述）、expressions（恰好6个）。可添加品牌简报、标签文本、来源说明与语种。
 
-ID使用小写ASCII字母、数字、短横线或下划线，名称字段可用中文。entity_type从personal/company/brand/product/school/community/nonprofit/organization/event选择。style_id使用三位数字字符串001–124；定制风格以custom-开头并将完整规则写入角色规范。
+ID使用小写ASCII字母、数字、短横线或下划线，名称字段可用中文。entity_type从personal/company/brand/product/school/community/nonprofit/organization/event选择。style_id使用三位数字字符串001–149；定制风格以custom-开头并将完整规则写入角色规范。
 
 ## 脚本操作
 
@@ -42,4 +42,4 @@ slot确定后跨版本保持对应位置，不随元素缺失自动挪位。没�
 
 ## 风格编号
 
-124种风格按菜单顺序使用三位数字字符串 `001–124`。菜单编号、style_id、风格文件名保持一致。保存与复用同时使用角色规范、已确认图及包内提示词；来源文字更新不自动改变已确认角色。
+149种风格按菜单顺序使用三位数字字符串 `001–149`。菜单编号、style_id、风格文件名保持一致。保存与复用同时使用角色规范、已确认图及包内提示词；来源文字更新不自动改变已确认角色。

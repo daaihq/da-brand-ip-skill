@@ -1,10 +1,10 @@
 # DA Brand IP · 브랜드 캐릭터 스튜디오
 
-![Skill](https://img.shields.io/badge/Skill-Codex-111111?style=flat-square) ![Styles](https://img.shields.io/badge/Styles-124-8B5CF6?style=flat-square) ![Output](https://img.shields.io/badge/Output-3_Design_Assets-FF4D6D?style=flat-square)
+![Skill](https://img.shields.io/badge/Skill-Codex-111111?style=flat-square) ![Styles](https://img.shields.io/badge/Styles-149-8B5CF6?style=flat-square) ![Output](https://img.shields.io/badge/Output-3_Design_Assets-FF4D6D?style=flat-square)
 
 [简体中文](README.md) · [English](README.en.md) · [日本語](README.ja.md) · [한국어](README.ko.md)
 
-`da-brand-ip`는 개인, 기업, 제품, 조직의 특징을 재사용할 수 있는 캐릭터 자산으로 만드는 스킬입니다. 124가지 스타일을 바탕으로 브랜드 브리프, 방향 선택, 캐릭터 후보, 디자인 시트 3장, 콘텐츠 이미지 제작까지 안내합니다.
+`da-brand-ip`는 개인, 기업, 제품, 조직의 특징을 재사용할 수 있는 캐릭터 자산으로 만드는 스킬입니다. 149가지 스타일을 바탕으로 브랜드 브리프, 방향 선택, 캐릭터 후보, 디자인 시트 3장, 콘텐츠 이미지 제작까지 안내합니다.
 
 ## 주요 기능
 
@@ -44,11 +44,11 @@ $da-brand-ip로 확정된 캐릭터를 활용해 블로그 글의 이미지를 �
 게시 플랫폼: 회사 웹사이트. 글 전문: [본문 붙여넣기]
 ```
 
-## 124가지 스타일과 시각 참고 자료
+## 149가지 스타일과 시각 참고 자료
 
-현재 [스타일 메뉴](references/style-menu.md)의 세 자리 번호 또는 이름으로 선택하세요. 미리보기 5장은 메뉴 순서대로 001–025, 026–050, 051–075, 076–100, 101–124를 보여 주며 마지막 칸은 비워 둡니다. 각 이미지는 1254×1254 해상도를 유지한 정사각형 JPEG입니다. 자세한 조건은 개별 스타일 규칙을 참고하세요. 클릭하면 크게 볼 수 있습니다.
+[스타일 메뉴](references/style-menu.md)의 세 자리 번호 또는 이름으로 선택하세요. 정사각형 JPEG 6장은 001–025, 026–050, 051–075, 076–100, 101–124, 125–149를 순서대로 보여 줍니다. 다섯 번째 이미지의 마지막 칸은 비어 있습니다. 자세한 조건은 개별 스타일 규칙을 참고하세요.
 
-스타일 번호, ID, 파일명은 세 자리 `001–124`로 통일합니다. 예: `001`은 `references/styles/001.md`에 해당합니다.
+스타일 번호, ID, 파일명은 세 자리 `001–149`로 통일합니다. 예: `001`은 `references/styles/001.md`에 해당합니다.
 
 [![Style reference sheet 1](assets/previews/1.jpg)](assets/previews/1.jpg)
 
@@ -59,6 +59,10 @@ $da-brand-ip로 확정된 캐릭터를 활용해 블로그 글의 이미지를 �
 [![Style reference sheet 4](assets/previews/4.jpg)](assets/previews/4.jpg)
 
 [![Style reference sheet 5](assets/previews/5.jpg)](assets/previews/5.jpg)
+
+[![Style reference sheet 6 — 125–149](assets/previews/6.jpg)](assets/previews/6.jpg)
+
+125–149의 전신 미리보기는 사용자가 확인했습니다. 해당 스타일의 3면도, 동작·표정 시트, 비인간 캐릭터는 아직 실제 이미지로 검증하지 않았습니다.
 
 ## 작업 흐름과 결과물
 

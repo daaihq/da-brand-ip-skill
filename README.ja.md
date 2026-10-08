@@ -1,10 +1,10 @@
 # DA Brand IP · ブランドキャラクター制作室
 
-![Skill](https://img.shields.io/badge/Skill-Codex-111111?style=flat-square) ![Styles](https://img.shields.io/badge/Styles-124-8B5CF6?style=flat-square) ![Output](https://img.shields.io/badge/Output-3_Design_Assets-FF4D6D?style=flat-square)
+![Skill](https://img.shields.io/badge/Skill-Codex-111111?style=flat-square) ![Styles](https://img.shields.io/badge/Styles-149-8B5CF6?style=flat-square) ![Output](https://img.shields.io/badge/Output-3_Design_Assets-FF4D6D?style=flat-square)
 
 [简体中文](README.md) · [English](README.en.md) · [日本語](README.ja.md) · [한국어](README.ko.md)
 
-`da-brand-ip` は、個人・企業・製品・組織の特徴を、繰り返し使えるキャラクター素材にまとめるスキルです。124 種類のスタイルを収録し、ヒアリング、方向性の選択、キャラクター候補、3 枚のデザイン資料、記事や広告への展開まで支援します。
+`da-brand-ip` は、個人・企業・製品・組織の特徴を、繰り返し使えるキャラクター素材にまとめるスキルです。149 種類のスタイルを収録し、ヒアリング、方向性の選択、キャラクター候補、3 枚のデザイン資料、記事や広告への展開まで支援します。
 
 ## 特徴
 
@@ -44,11 +44,11 @@ $da-brand-ip を使い、確定済みキャラクターでブログ記事の画�
 掲載先：自社サイト。記事全文：[本文を貼り付け]
 ```
 
-## 124 種類のスタイルと参考画像
+## 149 種類のスタイルと参考画像
 
-現在の[スタイル一覧](references/style-menu.md)の3桁の番号または名前で選択します。5枚のプレビューは 001–025、026–050、051–075、076–100、101–124 の順で、最後のマスは空白です。画像は 1254×1254 の解像度を維持した正方形の JPEG です。詳しい条件は各スタイルのルールを参照してください。クリックすると拡大できます。
+[スタイル一覧](references/style-menu.md)の3桁の番号または名前で選択します。6枚の正方形JPEGは 001–025、026–050、051–075、076–100、101–124、125–149 の順です。5枚目の最後のマスは空白です。詳しい条件は各スタイルのルールを参照してください。クリックすると拡大できます。
 
-番号・ID・ファイル名は3桁の `001–124` に統一しています。例：`001` は `references/styles/001.md` に対応します。
+番号・ID・ファイル名は3桁の `001–149` に統一しています。例：`001` は `references/styles/001.md` に対応します。
 
 [![Style reference sheet 1](assets/previews/1.jpg)](assets/previews/1.jpg)
 
@@ -59,6 +59,10 @@ $da-brand-ip を使い、確定済みキャラクターでブログ記事の画�
 [![Style reference sheet 4](assets/previews/4.jpg)](assets/previews/4.jpg)
 
 [![Style reference sheet 5](assets/previews/5.jpg)](assets/previews/5.jpg)
+
+[![Style reference sheet 6 — 125–149](assets/previews/6.jpg)](assets/previews/6.jpg)
+
+125–149 の全身プレビューはユーザーが確認済みです。三面図、ポーズ・表情シート、人間以外のキャラクターは実画像で未検証です。
 
 ## 制作の流れと納品物
 

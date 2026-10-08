@@ -1,10 +1,10 @@
 # DA Brand IP · 品牌 IP 创作室
 
-![Skill](https://img.shields.io/badge/Skill-Codex-111111?style=flat-square) ![Styles](https://img.shields.io/badge/Styles-124-8B5CF6?style=flat-square) ![Output](https://img.shields.io/badge/Output-3_Design_Assets-FF4D6D?style=flat-square)
+![Skill](https://img.shields.io/badge/Skill-Codex-111111?style=flat-square) ![Styles](https://img.shields.io/badge/Styles-149-8B5CF6?style=flat-square) ![Output](https://img.shields.io/badge/Output-3_Design_Assets-FF4D6D?style=flat-square)
 
 [简体中文](README.md) · [English](README.en.md) · [日本語](README.ja.md) · [한국어](README.ko.md)
 
-`da-brand-ip` 将个人、企业、产品或组织的特点转化为可复用的角色资产。内置 124 种风格，从品牌简报、方向选择、主形象候选到三张正式设计图，再用确认后的角色制作文章和宣传配图。
+`da-brand-ip` 将个人、企业、产品或组织的特点转化为可复用的角色资产。内置 149 种风格，从品牌简报、方向选择、主形象候选到三张正式设计图，再用确认后的角色制作文章和宣传配图。
 
 ## 亮点
 
@@ -42,11 +42,11 @@ cp -R SKILL.md agents assets references scripts requirements.txt "$HOME/.codex/s
 [粘贴文章全文]
 ```
 
-## 124 种风格与视觉参考
+## 149 种风格与视觉参考
 
-用当前[风格菜单](references/style-menu.md)中的三位编号或名称选择。以下五张预览图按菜单顺序展示 001–025、026–050、051–075、076–100、101–124，第五张最后一格留白。图片为 1:1 方图，保留 1254×1254 分辨率并压缩为 JPEG。具体风格要求以对应规则文件为准，点击图片可查看大图。
+用当前[风格菜单](references/style-menu.md)中的三位编号或名称选择。六张预览图依次展示 001–025、026–050、051–075、076–100、101–124、125–149；第五张最后一格留白。图片为压缩后的 1:1 方形 JPEG。具体风格要求以对应规则文件为准，点击图片可查看大图。
 
-风格编号、ID 和文件名统一为三位数字 `001–124`，例如 `001` 对应 `references/styles/001.md`。
+风格编号、ID 和文件名统一为三位数字 `001–149`，例如 `001` 对应 `references/styles/001.md`。
 
 [![Style reference sheet 1](assets/previews/1.jpg)](assets/previews/1.jpg)
 
@@ -57,6 +57,10 @@ cp -R SKILL.md agents assets references scripts requirements.txt "$HOME/.codex/s
 [![Style reference sheet 4](assets/previews/4.jpg)](assets/previews/4.jpg)
 
 [![Style reference sheet 5](assets/previews/5.jpg)](assets/previews/5.jpg)
+
+[![Style reference sheet 6 — 125–149](assets/previews/6.jpg)](assets/previews/6.jpg)
+
+新增 125–149 的全身预览已由用户确认；三视图、动作表情及非人角色尚未完成实图验证。
 
 ## 工作流程与交付
 
